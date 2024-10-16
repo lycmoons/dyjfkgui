@@ -14,11 +14,6 @@ public class Main {
 
             wwwwwwwwwwwwwwwwwwwwwwwww
                     wwwwwwwwwwwww
-                    buianciasciomcosa
-                            
-                            dsafbuniojfpoaf
-                            
-                            faninsfomfiomas
             System.out.println("i = " + i);
             System.out.println("i = " + i);
         }
